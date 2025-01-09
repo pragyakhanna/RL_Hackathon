@@ -1,4 +1,4 @@
-# BOT FACTORY 4SL4_Lab5
+# BOT FACTORY TEAM
 
 ## Setup Instructions
 
